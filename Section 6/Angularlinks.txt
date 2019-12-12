@@ -1,0 +1,7 @@
+https://restcountries.eu/rest/v2/all
+
+http://test-routes.herokuapp.com/test/uppercase
+
+http://test-routes.herokuapp.com/test/hello
+
+https://www.w3schools.com/angular/customers.php
